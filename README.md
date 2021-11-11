@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buddhsen-tripathi
 - 👀 I’m interested in Building applications
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently into Networking and Security
 - 💞️ I’m looking to collaborate on Building application projects
 - 📫 How to reach me email: buddhsent19@gmail.com
 
