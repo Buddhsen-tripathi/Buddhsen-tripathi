@@ -45,8 +45,8 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/buddhsen-tripathi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Buddhsen%20Tripathi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/buddhsentripathi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-buddhsentripathi-blue?style=flat-square&logo=instagram"></a>
 <a href="https://tryhackme.com/p/btripathi/"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-btripathi-blue?style=flat-square&logo=tryhackme"></a>
+<a href="https://www.instagram.com/buddhsentripathi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-buddhsentripathi-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:buddhsen.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-buddhsen.work@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 </p>
 
