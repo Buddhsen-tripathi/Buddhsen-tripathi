@@ -1,4 +1,4 @@
-<h2> Hi, Buddhsen Tripathi.</h2>
+<h2> Hi, I'm Buddhsen Tripathi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -46,9 +46,6 @@
 
 <a href="https://www.linkedin.com/in/buddhsen-tripathi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Buddhsen%20Tripathi-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://tryhackme.com/p/btripathi/"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-btripathi-blue?style=flat-square&logo=tryhackme"></a>
-<a href="https://www.instagram.com/buddhsentripathi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-buddhsentripathi-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:buddhsen.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-buddhsen.work@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <img src="https://gpvc.arturio.dev/buddhsen-tripathi" alt="profile views"/>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
