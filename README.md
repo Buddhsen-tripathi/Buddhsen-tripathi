@@ -45,6 +45,8 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/buddhsen-tripathi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Buddhsen%20Tripathi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.hackerrank.com/Buddhsen"><img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-buddhsen-blue?style=flat-square&logo=hackerrank"></a>
+<a href="https://leetcode.com/Buddhsen/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-buddhsen-blue?style=flat-square&logo=leetcode"></a>
 <a href="https://tryhackme.com/p/btripathi/"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-btripathi-blue?style=flat-square&logo=tryhackme"></a>
 <a href="mailto:buddhsen.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-buddhsen.work@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <img src="https://gpvc.arturio.dev/buddhsen-tripathi" alt="profile views"/>
