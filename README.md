@@ -47,15 +47,13 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   
 <br/>
-
+<p>
 <a href="https://github.com/Buddhsen-tripathi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Buddhsen-tripathi&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhsen-tripathi&theme=buefy&layout=compact" />
 </a>
-
-<br/>
-
-<b>&#128200; Competitive Programming</b>
+</p>
+<h3>&#128200; Competitive Programming</h3>
 <p float="left">
 <img height="290em" src="https://leetcard.jacoblin.cool/Buddhsen?theme=light&font=Karma&ext=contest" />
 </p>
