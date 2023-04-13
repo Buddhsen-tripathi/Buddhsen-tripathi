@@ -17,11 +17,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at Vellore Institute of Technology.
-- 🌱 &nbsp; I’m currently learning everything 🤣
-- 👯 &nbsp; I’m looking to collaborate with other content creators
-- ⚡ &nbsp; Fun fact: I love to doodle and explain concepts in Microsoft Paint.
+- &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- &nbsp; Studying Computer Science and Engineering at Vellore Institute of Technology.
+- &nbsp; I’m currently learning everything 🤣
+- &nbsp; I’m looking to collaborate with other content creators
+- &nbsp; Fun fact: I love to doodle and explain concepts in Microsoft Paint.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
