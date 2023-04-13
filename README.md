@@ -53,7 +53,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhsen-tripathi&theme=buefy&layout=compact" />
 </a>
 </p>
-<h3>&#128200; Competitive Programming</h3>
-<p float="left">
-<img height="290em" src="https://leetcard.jacoblin.cool/Buddhsen?theme=light&font=Karma&ext=contest" />
-</p>
