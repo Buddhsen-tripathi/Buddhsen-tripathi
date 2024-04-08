@@ -11,7 +11,6 @@
   </a>
 <a href="https://tryhackme.com/p/btripathi/"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-btripathi-blue?style=flat-square&logo=tryhackme"></a>
 <a href="mailto:buddhsen.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-buddhsen.work@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<img src="https://gpvc.arturio.dev/buddhsen-tripathi" alt="profile views"/>
 </p>
 
 
