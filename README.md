@@ -19,7 +19,7 @@
 - &nbsp; Passionate about exploring new technologies and developing innovative software solutions.
 - &nbsp; Graduated in Computer Science and Engineering from Vellore Institute of Technology in 2023.
 - &nbsp; Continuously learning and expanding my knowledge base.
-- &nbsp; Open to collaborations with other content creators.
+- &nbsp; Open to collaborations.
 - &nbsp; Fun fact: I love to doodle and explain concepts in Microsoft Paint.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -53,3 +53,9 @@
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
   
 <br/>
+<h3> 📊 &nbsp;Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buddhsen-tripathi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=buddhsen-tripathi&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
