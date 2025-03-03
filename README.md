@@ -7,9 +7,7 @@ Currently building **DeepFind.Me** and write a few blogs here and there.
 - 🚀 [Portfolio](https://www.buddhsentripathi.com)  
 - ✍️ [Blogs](https://www.buddhsentripathi.com/blogs)  
 
----
-
-<h3> 📊 &nbsp;GitHub Stats</h3>
+# 📊 &nbsp;GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=buddhsen-tripathi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
