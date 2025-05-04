@@ -1,7 +1,7 @@
 # Hi, I'm Buddhsen Tripathi 👋
 
 I'm a **Software Developer** with a keen interest in **full-stack development, cybersecurity and AI applications**.  
-Currently building **DeepFind.Me** and write a few blogs here and there.
+Currently building [**DeepFind.Me**](https://deepfind.me) and write a few blogs here and there.
 
 🔗 **Find me here:**  
 - 🚀 [Portfolio](https://www.buddhsentripathi.com)  
