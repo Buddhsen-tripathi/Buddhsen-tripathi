@@ -10,6 +10,6 @@ Currently building [**DeepFind.Me**](https://deepfind.me) and write a few blogs 
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buddhsen-tripathi&theme=dark" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=buddhsen-tripathi&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buddhsen-tripathi&theme=dark" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=buddhsen-tripathi&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
 </div>
