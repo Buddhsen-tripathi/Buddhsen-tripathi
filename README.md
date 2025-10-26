@@ -6,6 +6,6 @@ Currently building [**DeepFind.Me**](https://deepfind.me) and write a few blogs 
 ![Profile Views](https://komarev.com/ghpvc/?username=buddhsen&color=6D5AE6&style=flat-square)
 
 **Find me here:**  
-- [Portfolio](https://www.buddhsentripathi.com)  
+- [Website](https://www.buddhsentripathi.com)  
 - [Blogs](https://www.buddhsentripathi.com/blogs)
 - [𝕏/Twitter](https://www.x.com/btr1pathi)  
